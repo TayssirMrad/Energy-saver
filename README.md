@@ -18,4 +18,4 @@ An IoT-based energy monitoring and optimization system for hotels using ESP32 mi
 
 - Historical Data Analysis: Track energy usage patterns over time
   
-<img width="964" height="513" alt="ecohotel2" src="https://github.com/user-attachments/assets/1adb3732-2a4d-4066-8bff-1dba6073072b" />
+<img width="1912" height="838" alt="dashboard" src="https://github.com/user-attachments/assets/04ab1b2a-e43f-49b4-baaa-71d37d112d40" />
